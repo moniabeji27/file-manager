@@ -1,0 +1,50 @@
+{
+  "name": "front-technical-test",
+  "version": "1.0.0",
+  "description": "Technical test for Frontend Engineer position at Oodrive",
+  "repository": {
+    "url": "https://github.com/oodrive/front-technical-test"
+  },
+  "author": "Oodrive",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/animations": "8.1.3",
+    "@angular/cdk": "^8.2.3",
+    "@angular/common": "8.1.3",
+    "@angular/compiler": "8.1.3",
+    "@angular/core": "8.1.3",
+    "@angular/forms": "8.1.3",
+    "@angular/material": "^8.2.3",
+    "@angular/platform-browser": "8.1.3",
+    "@angular/platform-browser-dynamic": "8.1.3",
+    "@syncfusion/ej2": "^17.3.16",
+    "@syncfusion/ej2-angular-filemanager": "^17.3.14",
+    "@types/jest": "^24.0.18",
+    "angular-file-uploader": "^5.0.2",
+    "hammerjs": "^2.0.8"
+  },
+  "devDependencies": {
+    "@angular-builders/custom-webpack": "8.1.0",
+    "@angular-devkit/build-angular": "^0.801.2",
+    "@angular/cli": "8.1.2",
+    "@angular/compiler-cli": "8.1.3",
+    "@angularclass/hmr": "^2.1.3",
+    "connect-busboy": "0.0.2",
+    "cors": "2.8.5",
+    "css-loader": "^3.1.0",
+    "globby": "^10.0.1",
+    "lowdb": "^1.0.0",
+    "mime-types": "^2.1.24",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "shortid": "^2.2.14",
+    "tslint": "^5.18.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "zone.js": "^0.9.1"
+  }
+}
